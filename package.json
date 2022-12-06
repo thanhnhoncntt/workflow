@@ -1,0 +1,8 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thanhnhoncntt/workflow.git",
+  "author": "NhonNguyen <thanhnhon_cntt@hotmail.com>",
+  "license": "MIT"
+}
